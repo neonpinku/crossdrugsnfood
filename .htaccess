@@ -1,1 +1,1 @@
-Redirect / http://www.crossdrugsnfood.de/HTML/index.html
+DirectoryIndex index.php index.html site-down.php
